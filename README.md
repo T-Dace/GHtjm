@@ -11,4 +11,4 @@ Asymptotic methods in mechanics, Lebesgue integration, Operator Algebra, Biologi
 
 
 
-As of 24/4/24 my repositories are a bit messy and they need organising + revisiting to fill in some blanks as I intend on using this as kind of a portfolio for work + job applications
+As of 24/4/24 my repositories are a bit messy and they need organising + revisiting to fill in some blanks as I intend on using this as kind of a portfolio for work + job applications, as well as a bit of a storage unit for coding education.
