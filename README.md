@@ -22,7 +22,7 @@ As of 24/4/24 my repositories are a bit messy and they need organising + revisit
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I'm experienced with</h2>
 
 ###
 
