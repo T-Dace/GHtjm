@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> 👋👋 </h1>
 
 ###
 
-<p align="left">My name is GHtjm and I'm a Data analyst, from the United Kingdom.</p>
+<p align="left">I'm GHtjm and I'm a Data analyst from the United Kingdom.</p>
 
 ###
 
