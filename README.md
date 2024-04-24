@@ -5,3 +5,11 @@ This profile consists of personal projects throughout my education and professio
 GHtjm/GHtjm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+While I have much to learn about data analysis, I'm well versed in mathematics (Linear Algebra, Real and Complex Analysis, Group theory, Norms and differential equations, Differential Geometry, Topology, Intergral transforms, Partial differential equations, 
+Asymptotic methods in mechanics, Lebesgue integration, Operator Algebra, Biological Systems and Modelling, Applied statistics, Hydrodynamics)
+
+
+
+
+As of 24/4/24 my repositories are a bit messy and they need organising + revisiting to fill in some blanks as I intend on using this as kind of a portfolio for work + job applications
