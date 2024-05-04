@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm GHtjm and I'm a Data analyst from the United Kingdom.</p>
+<p align="left">I'm GHtjm and I'm an aspiring Data analyst from the United Kingdom.</p>
 
 ###
 
