@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm GHtjm and I'm an aspiring Data analyst from the United Kingdom.</p>
+<p align="left">I'm a student of Data science, Mathematics, Finance and Economics from the United Kingdom.</p>
 
 ###
 
@@ -11,14 +11,9 @@
 
 This profile consists of personal projects throughout my education and professional career. If you notice any errors or see any tips/advice you can give me feel free to message me, any advice is greatly appreciated! :)
 
-
-While I have much to learn about data analysis, I'm well versed in mathematics (Linear Algebra, Real and Complex Analysis, Group theory, Norms and differential equations, Differential Geometry, Topology, Intergral transforms, Partial differential equations, 
+I'm well versed in mathematics (Linear Algebra, Real and Complex Analysis, Group theory, Norms and differential equations, Differential Geometry, Topology, Intergral transforms, Partial differential equations, 
 Asymptotic methods in mechanics, Lebesgue integration, Operator Algebra, Biological Systems and Modelling, Applied statistics, Hydrodynamics).
-
-
-As of 24/4/24 my repositories are a bit messy and they need organising + revisiting to fill in some blanks as I intend on using this as kind of a portfolio for work + job applications, as well as a bit of a storage unit for coding education.
-
-<p align="left">📚 I'm currently learning as much as I can about Data Analysis + Data science<br> </p>
+And getting there with Data science
 
 ###
 
