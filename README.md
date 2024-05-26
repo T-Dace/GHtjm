@@ -1,7 +1,9 @@
 <h3>A student of Data Science, Mathematics, Finance and Economics.</h3>
 This profile consists of personal projects throughout my education and professional career. If you notice any errors or see any tips/advice you can give me feel free to message me, any advice is greatly appreciated! :)
 
+
 <p align="left"> 
+  
 I'm well versed in Mathematics (Linear Algebra, Real and Complex Analysis, Group Theory, Norms and Differential Equations, Differential Geometry, Topology, Intergral Transforms, Partial Differential Equations, 
 Asymptotic Methods in Mechanics, Lebesgue Integration, Operator Algebra, Biological Systems and Modelling, Applied Statistics, Hydrodynamics and much more).
 And i'm getting there with Data science
