@@ -1,13 +1,11 @@
 <h3 align="center">A student of Data Science, Mathematics, Finance and Economics hailing from the United Kingdom.</h3>
 <h3> This profile consists of personal projects throughout my education and professional career. If you notice any errors or see any tips/advice you can give me feel free to message me, any advice is greatly appreciated! :)
 
-I'm well versed in mathematics (Linear Algebra, Real and Complex Analysis, Group theory, Norms and differential equations, Differential Geometry, Topology, Intergral transforms, Partial differential equations, 
-Asymptotic methods in mechanics, Lebesgue integration, Operator Algebra, Biological Systems and Modelling, Applied statistics, Hydrodynamics).
-And getting there with Data science </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghtjm&label=Profile%20views&color=0e75b6&style=flat" alt="ghtjm" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> I'm well versed in mathematics (Linear Algebra, Real and Complex Analysis, Group theory, Norms and differential equations, Differential Geometry, Topology, Intergral transforms, Partial differential equations, 
+Asymptotic methods in mechanics, Lebesgue integration, Operator Algebra, Biological Systems and Modelling, Applied statistics, Hydrodynamics).
+And getting there with Data science
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
