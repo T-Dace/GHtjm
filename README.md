@@ -1,6 +1,4 @@
 <p>A student of Data Science, Mathematics, Finance and Economics.</p>
-This profile consists of personal projects throughout my education and professional career. If you notice any errors or see any tips/advice you can give me feel free to message me, any advice is greatly appreciated! :)
-
 
 <p align="left"> 
   
