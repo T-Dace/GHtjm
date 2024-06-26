@@ -16,6 +16,4 @@ And i'm getting there with Data Science.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GHTJM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GHTJM&icon=9&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
