@@ -2,9 +2,7 @@
 
 <p align="left"> 
   
-I'm well versed in Mathematics (Linear Algebra, Real and Complex Analysis, Group Theory, Norms and Differential Equations, Differential Geometry, Topology, Intergral Transforms, Partial Differential Equations, 
- Lebesgue Integration, Operator Algebra, Applied Statistics, Hydrodynamics and much more).
-And i'm getting there with Data Science.
+I'm well versed in Mathematics and Data science, currently seeking industry experience in Data science related roles to expand my capacity of data driven solutions.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghtjm&label=Profile%20views&color=0e75b6&style=flat" alt="ghtjm" /> </p>
 
