@@ -1,9 +1,9 @@
-<p>A student of Data Science, Mathematics, Finance and Economics.</p>
+<p>A student of Data Science, Mathematics, Theoretical Physics and Finance.</p>
 
 <p align="left"> 
   
 I'm well versed in Mathematics (Linear Algebra, Real and Complex Analysis, Group Theory, Norms and Differential Equations, Differential Geometry, Topology, Intergral Transforms, Partial Differential Equations, 
-Asymptotic Methods in Mechanics, Lebesgue Integration, Operator Algebra, Biological Systems and Modelling, Applied Statistics, Hydrodynamics and much more).
+ Lebesgue Integration, Operator Algebra, Applied Statistics, Hydrodynamics and much more).
 And i'm getting there with Data Science.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghtjm&label=Profile%20views&color=0e75b6&style=flat" alt="ghtjm" /> </p>
