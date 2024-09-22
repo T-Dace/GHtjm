@@ -3,7 +3,8 @@
 <p align="left"> 
   
 I'm well versed in Mathematics and Data science, currently seeking industry experience in Data science related roles to expand my capacity of data driven solutions.
-GitHub page -> https://ghtjm.github.io 
+
+<p> GitHub page -> https://ghtjm.github.io </p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghtjm&label=Profile%20views&color=0e75b6&style=flat" alt="ghtjm" /> </p>
 
