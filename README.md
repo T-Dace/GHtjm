@@ -1,10 +1,10 @@
-<p>A student of Data Science, Mathematics, Theoretical Physics and Finance.</p>
+<p>A student of Data Science and Mathematics.</p>
 
 <p align="left"> 
   
 I'm well versed in Mathematics and Data science, currently seeking industry experience in Data science related roles to expand my capacity of data driven solutions.
 
-<p> GitHub page -> https://ghtjm.github.io </p>
+<p> ![Portfolio](https://ghtjm.github.io/) -> https://ghtjm.github.io </p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghtjm&label=Profile%20views&color=0e75b6&style=flat" alt="ghtjm" /> </p>
 
